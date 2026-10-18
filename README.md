@@ -1,13 +1,9 @@
-Hi, I'm Piyush Arya
+# Hi, I'm Piyush Arya
 
-About Me
+### AI, Machine Learning, and Data Analytics Enthusiast
 
-Interested in AI, LLMs, and multi-agent systems.
-
-Built a multi-agent AI research assistant using Python, LangChain, and Google Gemini.
-
-Exploring AI engineering and intelligent automation.
-
-Tech Stack
-
-Python · LangChain · Google Gemini · Tavily · Streamlit · Git · GitHub
+- Currently building **AI agents and LLM-powered applications**.
+- Exploring **Agentic RAG, Machine Learning, and Data Analytics**.
+- Interested in **AI engineering and intelligent automation**.
+- Reach me at [**par305065@gmail.com**](mailto:par305065@gmail.com)
+- Connect on [**LinkedIn**](https://www.linkedin.com/in/piyush-arya-033b06225/)
